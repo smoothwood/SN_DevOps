@@ -148,9 +148,14 @@
     "Script Includes": {
       "DummyScriptInclude": {
         "sys_id": "983fde842f075110751ead6df699b6d3",
-        "sys_updated_on": "2022-11-04 06:38:16",
-        "SERVER_MOD_TIME": 1667515096000,
-        "LOCAL_MOD_TIME": 1667545051514
+        "sys_updated_on": "2022-11-04 12:00:19",
+        "SERVER_MOD_TIME": 1667534419000,
+        "LOCAL_MOD_TIME": 1667562695795,
+        "LIVE": true,
+        "UNCHANGED": true,
+        "CURRENT_LOCAL_MOD_TIME": 1667562695795,
+        "CURRENT_SERVER_MOD_TIME": 1667534419000,
+        "lastmodified": 1667563222042
       }
     }
   }

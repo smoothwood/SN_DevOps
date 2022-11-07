@@ -5,5 +5,5 @@ DummyScriptInclude.prototype = {
     },
     
 
-    type: 'DummyScriptInclude'
+	type: "DummyScriptInclude"
 };
